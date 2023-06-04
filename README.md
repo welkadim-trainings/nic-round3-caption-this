@@ -48,6 +48,9 @@
 - [GitHub and Eclipse](https://resources.github.com/webcasts/GitHub-and-Eclipse/)
 - [GitHub and GitHub Desktop](https://resources.github.com/webcasts/GitHub-and-GitHub-desktop/)
 - [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
+    
+    
+   this readme is to help understand the project more
 
 </details>
 
